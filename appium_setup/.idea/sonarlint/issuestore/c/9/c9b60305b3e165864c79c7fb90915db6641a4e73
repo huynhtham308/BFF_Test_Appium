@@ -1,0 +1,7 @@
+
+^
+java:S2583"CChange this condition so that it does not always evaluate to "true"(Í™Ôüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(²àéÁüÿÿÿÿ
+E
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¿ÌÊÜşÿÿÿÿ

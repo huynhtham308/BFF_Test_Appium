@@ -1,0 +1,17 @@
+[{
+  "yourName": "Tham",
+  "friendName": "Lap",
+  "list": [0, 1, 2, 2, 1, 0, 2, 1, 1, 2],
+  "result": "27"
+}, {
+  "yourName": "Tham",
+  "friendName": "Tam",
+  "list": [0, 1, 2, 2, 0, 0, 0, 1, 1, 2],
+  "result": "37"
+  }, {
+  "yourName": "Tham",
+  "friendName": "Nam",
+  "list": [0, 1, 2, 2, 1, 0, 2, 2, 2, 2],
+  "result": "17"
+  }
+]

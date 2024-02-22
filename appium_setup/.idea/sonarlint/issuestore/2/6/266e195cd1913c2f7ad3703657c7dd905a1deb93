@@ -1,0 +1,9 @@
+
+l
+java:S6201Q"JReplace this instanceof check and cast with 'instanceof Object[] object[]'(Ã­¥Šúÿÿÿÿ8£×Š€Ä1
+L	java:S106S"+Replace this use of System.out by a logger.(µŸŞ…şÿÿÿÿ8£×Š€Ä1
+G	java:S106U"+Replace this use of System.out by a logger.(ÙøØ8¤×Š€Ä1
+L	java:S106W"+Replace this use of System.out by a logger.(÷î‡±øÿÿÿÿ8¤×Š€Ä1
+G	java:S106Z"+Replace this use of System.out by a logger.(ğÓêû8¤×Š€Ä1
+G	java:S106\"+Replace this use of System.out by a logger.(Û‚öà8¥×Š€Ä1
+L	java:S106^"+Replace this use of System.out by a logger.(ªéšçùÿÿÿÿ8¥×Š€Ä1

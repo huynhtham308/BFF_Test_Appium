@@ -1,0 +1,21 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ãøïçøÿÿÿÿ8ï¸ÓÇÅ1
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(±öÉ¼8ğ¸ÓÇÅ1
+g	java:S1125"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ8ñ¸ÓÇÅ1
+b	java:S112."FDefine and throw a dedicated exception instead of using a generic one.(Â£¥è8ñ¸ÓÇÅ1
+g	java:S112>"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ8ñ¸ÓÇÅ1
+b	java:S1129"FDefine and throw a dedicated exception instead of using a generic one.(ô²ä8ñ¸ÓÇÅ1
+Q
+java:S3740"/Provide the parametrized type for this generic.(îÃÉàúÿÿÿÿ8ñ¸ÓÇÅ1
+s	java:S116"RRename this field "_driver" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éï€Öıÿÿÿÿ8‡¹ÓÇÅ1
+q	java:S116"PRename this field "_wait" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÃÉàúÿÿÿÿ8‡¹ÓÇÅ1
+^
+java:S1126P"AReplace this if-then-else statement by a single return statement.(æŸÓ³8—¹ÓÇÅ1
+d
+java:S1128"BRemove this unused import 'org.openqa.selenium.support.ui.Select'.(´—âÛøÿÿÿÿ8¹ÓÇÅ1
+_
+java:S1128"=Remove this unused import 'javax.lang.model.element.Element'.(¦¶¡›üÿÿÿÿ8¹ÓÇÅ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8¹ÓÇÅ1
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8¹ÓÇÅ1
